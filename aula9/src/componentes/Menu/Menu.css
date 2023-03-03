@@ -1,0 +1,27 @@
+ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #161616;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    justify-content: end;
+ }
+
+ul li{
+    margin: 10px;
+    padding: 10px;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(62, 250, 62);
+}

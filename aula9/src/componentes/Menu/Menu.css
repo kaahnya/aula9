@@ -25,3 +25,12 @@ a:hover{
     text-decoration: none;
     color: rgb(62, 250, 62);
 }
+
+.foto {
+    position: absolute;
+    width: 60px;
+    z-index: 2;
+    margin-left: 60px;
+    margin-top: 3px;
+    position: fixed;
+}

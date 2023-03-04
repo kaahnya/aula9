@@ -1,0 +1,46 @@
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    display: flex;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width:  650px;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    position: absolute;
+    color: #494949;
+    font-weight: bolder ;
+    margin-left: 806.5px;
+    margin-top: 320px;
+  }
+
+.about{
+    display: inline;
+    background-color:  rgb(62, 250, 62);
+}
+
+div.nome{
+    padding: 15px;
+    color: #161616;
+    font-weight: bolder ;
+    font-size: 100px;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+div.desc2 {
+    padding: 15px;
+    position: absolute;
+    color: #494949;
+    font-weight: bolder ;
+    margin-left: 1050px;
+    margin-top: 200px;
+  }

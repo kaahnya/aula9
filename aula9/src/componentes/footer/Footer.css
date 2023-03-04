@@ -1,0 +1,11 @@
+.footer{
+    background-color: #161616;
+    color: whitesmoke;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+}
+
+.a1{
+    padding: 50px;
+}
